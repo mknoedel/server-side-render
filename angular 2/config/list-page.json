@@ -1,0 +1,26 @@
+{
+  "config": {
+    "target": "http://localhost:3000",
+    "phases": [
+      {"duration": 60, "arrivalRate": 10}
+    ]
+  },
+  "scenarios": [
+    {
+      "name": "SSR",
+      "flow": [
+        {
+          "get": {
+            "url": "/list/10"
+          },
+          "get": {
+            "url": "/list/100"
+          },
+          "get": {
+            "url": "/list/1000"
+          }
+        }
+      ]
+    }
+  ]
+}

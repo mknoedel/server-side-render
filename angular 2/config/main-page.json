@@ -1,0 +1,19 @@
+{
+  "config": {
+    "target": "http://localhost:3000",
+    "phases": [
+      {"duration": 60, "arrivalRate": 5, "rampTo": 250}
+    ]
+  },
+  "scenarios": [
+    {
+      "name": "SSR",
+      "flow": [
+        {"get": {
+          "url": "/"
+         }
+        }
+      ]
+    }
+  ]
+}
