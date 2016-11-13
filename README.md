@@ -23,4 +23,4 @@ Testing APP consists of two pages:
 Maybe we will change it in the nearest future... *maybe...*
 
 ## License
-Everything in this repo is **MIT** license unless otherwise specified... even this phrase was **stolen**... *beware!*
+Everything in this repo is under **MIT** license unless otherwise specified... even this phrase was **stolen**... *beware!*
