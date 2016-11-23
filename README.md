@@ -13,6 +13,8 @@
 ## Disclaimer
 This is like TodoMVC for server-side rendering. Nothing more. Maybe less... you will never know.
 
+*PS Both repositories (with Angular 2 Universal and React/Redux) were updated. Benchmark for updated versions is currently in "comming soon" mode.*
+
 ## Testing APP
 Testing APP consists of two pages:
 * [Main Page](https://github.com/ServerSideRender/server-side-render/wiki/Main-Page)
